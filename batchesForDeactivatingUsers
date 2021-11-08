@@ -1,0 +1,5 @@
+deactToActUserTransferHelper.getInfoOfUser('0054P00000DHfy4');
+deactToActUserTransferHelper.runBatchforContact('0054P00000DHfy4');
+deactToActUserTransferHelper.runBatchforAccount('0054P00000DHfy4');
+deactToActUserTransferHelper.runBatchforAssignment('0054P00000DHfy4');
+//user id
